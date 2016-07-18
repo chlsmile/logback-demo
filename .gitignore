@@ -1,0 +1,42 @@
+#maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+#idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+#maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+#temp ignore
+logs/
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*.swp
+
+#system ignore
+.DS_Store
+Thumbs.db
+*.data
+CATALINA_APPLOG_IS_UNDEFINED
+
+discoverclient/
+logs/
+
+impl/logHome_IS_UNDEFINED
+
